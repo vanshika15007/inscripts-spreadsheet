@@ -8,9 +8,9 @@ It replicates the layout and structure from the provided Figma design with featu
 
 ## Tech Stack
 
-- React 18
-- TypeScript
-- Tailwind CSS
+- React 18  
+- TypeScript  
+- Tailwind CSS  
 - Vite (for fast dev build)
 
 ---
@@ -41,4 +41,3 @@ Styling is inspired by the Figma but not pixel-perfect
 No real data backend — data is static and managed via state
 
 Sorting and column resizing not implemented (optional stretch goals)
-```
